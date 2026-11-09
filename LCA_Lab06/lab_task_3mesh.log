@@ -1,0 +1,17 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\mmhus\LCA_Lab06\DSA-Lab1\LCA_Lab06\lab_task_3mesh.net
+Start Time: Mon Nov  9 15:47:07 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node nc_02 is floating.
+
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.048 seconds.
+Total iterations: 3
+
+Files loaded:
+C:\Users\mmhus\LCA_Lab06\DSA-Lab1\LCA_Lab06\lab_task_3mesh.net
+
