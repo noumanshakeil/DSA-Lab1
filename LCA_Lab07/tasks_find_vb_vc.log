@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\mmhus\LCA_Lab07\tasks_find_vb_vc.cir
+Start Time: Tue Nov 10 12:32:33 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.423 seconds.
+Total iterations: 3
+
+Files loaded:
+C:\Users\mmhus\LCA_Lab07\tasks_find_vb_vc.cir
+

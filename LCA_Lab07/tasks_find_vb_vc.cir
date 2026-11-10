@@ -1,0 +1,10 @@
+* Tasks Find VB, VC
+Vs1 A 0 3
+Vs2 E 0 4
+R1 B A 1k
+R2 B 0 2.2k
+R3 B C 1.5k
+R4 C E 3.3k
+R5 C 0 820
+.op
+.end

@@ -10,3 +10,8 @@
 # IDE metadata (keep .sln and .vcxproj if instructed to submit them)
 .vscode/
 .idea/
+
+# LTspice raw dumps
+*.raw
+*.net
+

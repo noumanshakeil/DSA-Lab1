@@ -1,0 +1,8 @@
+* Practice Fig A-2 nodal analysis
+V1 C 0 5
+V2 D 0 9
+R1 A C 100
+R2 A 0 220
+R3 A D 470
+.op
+.end
