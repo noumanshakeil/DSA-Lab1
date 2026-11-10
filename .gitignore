@@ -10,3 +10,9 @@
 # IDE metadata (keep .sln and .vcxproj if instructed to submit them)
 .vscode/
 .idea/
+
+# Class Activity build artifacts
+*.exe
+*.o
+problem[1-7]
+predict_output
