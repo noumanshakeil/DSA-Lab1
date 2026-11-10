@@ -1,0 +1,12 @@
+* ENA Lab06 Source Two Only — E2=2Vpp@10kHz, E1 replaced by 50 ohm
+Rs1 A 0 50
+L1 MID A 10m
+R1 MID 0 1k
+C1 B MID 10n
+Rs2 N001 B 50
+VE2 N001 0 SINE(0 1 10000 0 0 0)
+.tran 0 2m 0 0.2u
+.meas TRAN E1pp PP V(A)
+.meas TRAN E2pp PP V(B)
+.meas TRAN VRpp PP V(MID)
+.end

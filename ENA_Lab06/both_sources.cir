@@ -1,0 +1,13 @@
+* ENA Lab06 Both Sources — E1@1kHz + E2@10kHz, 2Vpp each
+VE1 N001 0 SINE(0 1 1000 0 0 0)
+Rs1 A N001 50
+L1 MID A 10m
+R1 MID 0 1k
+C1 B MID 10n
+Rs2 N002 B 50
+VE2 N002 0 SINE(0 1 10000 0 0 0)
+.tran 0 10m 0 0.5u
+.meas TRAN E1pp PP V(A)
+.meas TRAN E2pp PP V(B)
+.meas TRAN VRpp PP V(MID)
+.end

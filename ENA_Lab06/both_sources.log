@@ -1,0 +1,20 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\mmhus\ENA_Lab06\sim\both_sources.net
+Start Time: Tue Nov 10 13:10:47 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+.OP point found by inspection.
+.OP point found by inspection.
+Total elapsed time: 1.297 seconds.
+Total iterations: 40034
+
+Files loaded:
+C:\Users\mmhus\ENA_Lab06\sim\both_sources.net
+
+e1pp: PP(V(A))=1.94900853701 FROM 0 TO 0.01
+e2pp: PP(V(B))=1.98412734561 FROM 0 TO 0.01
+vrpp: PP(V(MID))=2.72709684517 FROM 0 TO 0.01
