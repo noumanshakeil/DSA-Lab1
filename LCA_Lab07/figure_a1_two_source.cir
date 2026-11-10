@@ -1,0 +1,9 @@
+* Figure A-1 two-source nodal analysis
+V1 A 0 5
+V2 C 0 9
+R1 B A 2k
+R2 B 0 1k
+R3 B 0 4k
+R5 B C 4k
+.op
+.end
