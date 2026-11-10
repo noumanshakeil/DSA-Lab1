@@ -1,4 +1,4 @@
-# Classroom Activity-4 — Nested Loops
+﻿# Classroom Activity-4 — Nested Loops
 
 **Student:** Malik Muhammad Hussain  
 **Registration No.:** B25F0330EE026
@@ -15,7 +15,8 @@
 | `problem6.cpp` | Multiplication tables 2–10 |
 | `problem7.cpp` | University attendance (3 classes × 4 students) |
 | `predict_output.cpp` | Trace / predict-the-output exercise |
-| `Class_Activity_04.docx` | Solution report |
+| `Class_Activity_04.docx` | Solution report with Dev-C++ screenshots |
+| `screenshots/*.png` | Full-screen Dev-C++ 5.11 IDE captures (lab laptop) |
 
 ## Build & run (Dev-C++ or g++)
 
