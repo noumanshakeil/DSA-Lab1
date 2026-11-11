@@ -1,0 +1,9 @@
+* EC Lab03 Task2 AC - stepped Vpeak for Vrms = 5..30
+V1 N001 0 SINE(0 {Vp} 50)
+R1 N001 0 1k
+.param Vp=7.071
+.step param Vp list 7.071 14.142 21.213 28.284 35.355 42.426
+.tran 0 100m 0 20u
+.meas TRAN Vrms RMS V(N001)
+.meas TRAN Irms RMS I(R1)
+.end
