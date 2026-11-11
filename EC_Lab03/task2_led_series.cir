@@ -1,0 +1,7 @@
+* EC Lab03 LED non-linear behavior
+V1 N001 0 SINE(0 14.14 50)
+R1 N001 N002 1k
+D1 N002 0 LED
+.model LED D(Is=1e-20 N=1.8 Rs=10)
+.tran 0 40m 0 10u
+.end

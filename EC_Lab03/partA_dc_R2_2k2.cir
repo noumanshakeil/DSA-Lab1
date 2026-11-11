@@ -1,0 +1,7 @@
+* EC Lab03 Part A - DC Ohm's Law R=2.2k
+V1 N001 0 {Vset}
+R1 N001 0 2.2k
+.param Vset=5
+.step param Vset list 5 10 15 20 25 30
+.op
+.end
