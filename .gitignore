@@ -10,3 +10,10 @@
 # IDE metadata (keep .sln and .vcxproj if instructed to submit them)
 .vscode/
 .idea/
+
+*.raw
+*.net
+*.op.raw
+*.log.raw
+*.db
+
