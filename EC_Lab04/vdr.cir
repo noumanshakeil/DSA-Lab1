@@ -1,0 +1,7 @@
+* EC Lab04 Voltage Divider VS=10V R1=5k R2=2.5k R3=2.5k
+VS N001 0 10
+R1 N001 N002 5k
+R2 N002 N003 2.5k
+R3 N003 0 2.5k
+.op
+.end

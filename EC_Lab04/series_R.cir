@@ -1,0 +1,7 @@
+* EC Lab04 Series resistors RT check + VT=10V bias
+R1 N001 N002 1k
+R2 N002 N003 2.2k
+R3 N003 0 3.3k
+V1 N001 0 10
+.op
+.end
