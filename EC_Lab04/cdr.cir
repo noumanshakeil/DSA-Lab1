@@ -1,0 +1,7 @@
+* EC Lab04 Current Divider VS=6V R1=5k R2=2.5k R3=2.5k parallel
+VS N001 0 6
+R1 N001 0 5k
+R2 N001 0 2.5k
+R3 N001 0 2.5k
+.op
+.end

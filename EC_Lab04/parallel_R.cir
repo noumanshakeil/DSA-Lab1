@@ -1,0 +1,7 @@
+* EC Lab04 Parallel resistors VT=10V
+V1 N001 0 10
+R1 N001 0 1k
+R2 N001 0 2.2k
+R3 N001 0 3.3k
+.op
+.end
